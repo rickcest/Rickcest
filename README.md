@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Visitor Count](https://hits.sh/thehotelkeeper.github.io.svg?label=🖤&color=777777)
+![Visitor Count](https://hits.sh/hizashiYamada.github.io.svg?label=🖤&color=777777)
 
 
 
