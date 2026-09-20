@@ -10,4 +10,5 @@
 <div align="center">
 
 
-<div class="tenor-gif-embed" data-postid="1043067779440695177" data-share-method="host" data-aspect-ratio="1.33071" data-width="100%"><a href="https://tenor.com/view/prickcest-rickcest-rick-prime-rick-sanchez-rick-and-morty-gif-1043067779440695177">Prickcest Rick Prime GIF</a>from <a href="https://tenor.com/search/prickcest-gifs">Prickcest GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img width="338" height="253" alt="image" src="https://github.com/user-attachments/assets/f266c1ed-aef5-4419-acfe-637b935cda50" />
+
